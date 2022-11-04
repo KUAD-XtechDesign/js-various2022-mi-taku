@@ -10,7 +10,7 @@ img{
 
 header{
   position: fixed;
-  width: 50%;
+  width: 30%;
   background-color: #dbeae9cd;
   padding: 20px;
   display: flex;
@@ -32,14 +32,16 @@ header{
 #menu{
   position: fixed;
   top: 300px;
-  font-size: 70px;
+  font-size: 55px;
   font-family: 'Hiragino Maru Gothic ProN W4', sans-serif;
-  line-height: 1.2
+  line-height: 
 ;
-  color: #0e3a54cd;
+  color: #000000;
+  background-color: #f8f8faa3;
   left: 20px;
   z-index: 100;
   cursor: pointer;
+  
 }
 
 #content{
